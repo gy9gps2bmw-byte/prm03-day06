@@ -1,0 +1,2 @@
+support_hours=08:30-17:00
+response_minutes=60
